@@ -1,0 +1,7 @@
+.nyc_output
+.vscode
+coverage
+static
+node_modules
+build
+test_repo

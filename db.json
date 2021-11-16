@@ -1,0 +1,44 @@
+{
+  "offers": [
+    {
+      "id": "1",
+      "type": "USD",
+      "price": 0.99,
+      "amount": 10000,
+      "collateral": 20202.02,
+      "comment": "Western Union",
+      "user": {
+        "name": "0xFFcf8FDEE72ac11b5c542428B35EEF5769C409f0",
+        "rating": 4.9,
+        "deals": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "USD",
+      "price": 0.92,
+      "amount": 50000,
+      "collateral": 108695.65,
+      "comment": "Bank Wire",
+      "user": {
+        "name": "0xE11BA2b4D45Eaed5996Cd0823791E0C93114882d",
+        "rating": 4.75,
+        "deals": "1000+"
+      }
+    },
+    {
+      "id": "2",
+      "type": "USD",
+      "price": 1,
+      "amount": 20,
+      "collateral": 40,
+      "comment": "Card2Card Transfer",
+      "user": {
+        "name": "0x22d491Bde2303f2f43325b2108D26f1eAbA1e32b",
+        "rating": 4.5,
+        "deals": 3
+      }
+    }
+  ],
+  "deals": []
+}

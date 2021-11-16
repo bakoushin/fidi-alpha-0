@@ -1,0 +1,29 @@
+.app-header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+}
+
+.main-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.sub-header {
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+
+.app-header__text {
+  color: #000;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+
+.app-header__icon {
+  padding: 4px;
+  fill: #a5a4a4;
+}
