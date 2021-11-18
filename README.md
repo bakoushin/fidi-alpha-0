@@ -5,9 +5,9 @@ The good behaviour on the market is incentivized by overcollateralized deals pro
 
 The goal of alpha-0 MVP is to test the hypothesis that people are not afraid of participating in overcollateralized deals.
 
-##
+## Demo
 
-[Demo](https://alpha-0.fidi.cash/)
+https://alpha-0.fidi.cash/
 
 ## Author
 
